@@ -106,7 +106,7 @@ Trong khi đó, các mô hình truyền thống vẫn có ưu điểm:
 ---
 
 ## Tác giả
-Võ Gia Kiệt
-Phan Đức Nhân
+- Võ Gia Kiệt
+- Phan Đức Nhân
 
 
